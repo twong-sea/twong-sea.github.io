@@ -1,0 +1,72 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Posts on Strata</title>
+    <link>/post/</link>
+    <description>Recent content in Posts on Strata</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Sat, 10 Oct 2015 13:07:31 +0200</lastBuildDate>
+    
+	<atom:link href="/post/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Table Test normal</title>
+      <link>/post/test-for-tables/</link>
+      <pubDate>Sat, 10 Oct 2015 13:07:31 +0200</pubDate>
+      
+      <guid>/post/test-for-tables/</guid>
+      <description>| | | |-|-| | Normal Key| Value1 | |BoldKey| Value2 |
+|&amp;mdash;&amp;mdash;&amp;mdash;&amp;mdash;-|&amp;mdash;&amp;mdash;&amp;ndash;| |Name: |John Doe| |Position:|CEO |
+   []()      Foo 37   Bar 101       []() []()     Row 1 row 2       Foo 11     Bar 11   {table-plus:border=0 class=&amp;ldquo;}   header1 header 2   cell11 cell 12   cell 21 cell 22    {table-plus}</description>
+    </item>
+    
+    <item>
+      <title>Table Test with mmark</title>
+      <link>/post/test-for-tables-with-mmark/</link>
+      <pubDate>Sat, 10 Oct 2015 13:07:31 +0200</pubDate>
+      
+      <guid>/post/test-for-tables-with-mmark/</guid>
+      <description>markup = mmark
+| | | |-|-| | Normal Key| Value1 | |BoldKey| Value2 |
+|&amp;mdash;&amp;mdash;&amp;mdash;&amp;mdash;-|&amp;mdash;&amp;mdash;&amp;ndash;| |Name: |John Doe| |Position:|CEO |
+         Foo 37   Bar 101       []() []()     Row 1 row 2       Foo 11     Bar 11    {table-plus:border=0|class=&amp;ldquo;} | header1 | header 2 | | cell11 | cell 12 | | cell 21 | cell 22 | {table-plus}</description>
+    </item>
+    
+    <item>
+      <title>Go is for lovers</title>
+      <link>/post/go-is-for-lovers/</link>
+      <pubDate>Thu, 17 Sep 2015 13:47:08 +0200</pubDate>
+      
+      <guid>/post/go-is-for-lovers/</guid>
+      <description>Hugo uses the excellent go html/template library for its template engine. It is an extremely lightweight engine that provides a very small amount of logic. In our experience that it is just the right amount of logic to be able to create a good static website. If you have used other template systems from different languages or frameworks you will find a lot of similarities in go templates.
+This document is a brief primer on using go templates.</description>
+    </item>
+    
+    <item>
+      <title>Hugo is for lovers</title>
+      <link>/post/hugo-is-for-lovers/</link>
+      <pubDate>Mon, 03 Aug 2015 13:39:46 +0200</pubDate>
+      
+      <guid>/post/hugo-is-for-lovers/</guid>
+      <description>Step 1. Install Hugo Goto hugo releases and download the appropriate version for your os and architecture.
+Save it somewhere specific as we will be using it in the next step.
+More complete instructions are available at installing hugo
+Step 2. Build the Docs Hugo has its own example site which happens to also be the documentation site you are reading right now.
+Follow the following steps:
+ Clone the hugo repository Go into the repo Run hugo in server mode and build the docs Open your browser to http://localhost:1313  Corresponding pseudo commands:</description>
+    </item>
+    
+    <item>
+      <title>Creating a new theme</title>
+      <link>/post/creating-a-new-theme/</link>
+      <pubDate>Wed, 24 Jun 2015 13:50:46 +0200</pubDate>
+      
+      <guid>/post/creating-a-new-theme/</guid>
+      <description>Introduction This tutorial will show you how to create a simple theme in Hugo. I assume that you are familiar with HTML, the bash command line, and that you are comfortable using Markdown to format content. I&amp;rsquo;ll explain how Hugo uses templates and how you can organize your templates to create a theme. I won&amp;rsquo;t cover using CSS to style your theme.
+We&amp;rsquo;ll start with creating a new site with a very basic template.</description>
+    </item>
+    
+  </channel>
+</rss>

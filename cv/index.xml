@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Cvs on Strata</title>
+    <link>/cv/</link>
+    <description>Recent content in Cvs on Strata</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Sun, 24 Sep 2017 13:50:46 +0200</lastBuildDate>
+    
+	<atom:link href="/cv/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Resume</title>
+      <link>/cv/resume/</link>
+      <pubDate>Sun, 24 Sep 2017 13:50:46 +0200</pubDate>
+      
+      <guid>/cv/resume/</guid>
+      <description>Trevor Mark Wong trevor@trevorwong.com
+TECHNICAL SKILLS ArcGIS 10.x, QGIS, SQL (Vertica &amp;amp; PostgreSQL), Tableau, NGP-VAN, Excel, Google Fusion Tables
+RELEVANT EXPERIENCE Hillary for America, Brooklyn, NY
+Senior Battleground States Analyst / GIS Administrator, June-November 2016
+Battleground States Analytics Lead, October-November 2016
+ Led Strategic planning for national field program with over 2,600 organizers and 1.8 million volunteers Deployed PostgreSQL/PostGIS geodatabase and other GIS tools to 70 state analytics staff Established metrics, analytics frameworks, and data reporting tools to assess voter contact performance in Ohio, Pennsylvania, and Virginia Optimized Iowa early vote locations using spatial analysis to maximize turnout Audited and approved final voter contact targeting of over 10 million voters Provided Election Day support and detailed turnout projections to 5 state analytics teams  Democratic Congressional Campaign Committee, Washington, DC</description>
+    </item>
+    
+  </channel>
+</rss>
