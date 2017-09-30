@@ -3,6 +3,11 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
+    <loc>/post/my-name/</loc>
+    <lastmod>2017-09-30T00:24:36-07:00</lastmod>
+  </url>
+  
+  <url>
     <loc>/cv/resume/</loc>
     <lastmod>2017-09-24T13:50:46+02:00</lastmod>
   </url>
@@ -57,7 +62,7 @@
   
   <url>
     <loc>/post/</loc>
-    <lastmod>2015-10-10T13:07:31+02:00</lastmod>
+    <lastmod>2017-09-30T00:24:36-07:00</lastmod>
     <priority>0</priority>
   </url>
   
@@ -69,7 +74,7 @@
   
   <url>
     <loc>/</loc>
-    <lastmod>2017-09-24T13:50:46+02:00</lastmod>
+    <lastmod>2017-09-30T00:24:36-07:00</lastmod>
     <priority>0</priority>
   </url>
   
