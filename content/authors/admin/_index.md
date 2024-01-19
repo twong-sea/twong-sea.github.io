@@ -1,17 +1,17 @@
 ---
 # Display name
-title: 吳健雄
+title: Trevor Wong
 
 # Name pronunciation (optional)
-name_pronunciation: Chien Shiung Wu
+#name_pronunciation: Chien Shiung Wu
 
 # Full name (for SEO)
-first_name: Shiung Wu
-last_name: Chien
+first_name: Trevor
+last_name: Wong
 
 # Status emoji
 status:
-  icon: ☕️
+  icon: 🍜
 
 # Is this the primary user of the site?
 superuser: true
@@ -27,17 +27,19 @@ organizations:
 # Social network links
 # Need to use another icon? Simply download the SVG icon to your `assets/media/icons/` folder.
 profiles:
-  - icon: at-symbol
-    url: 'mailto:your-email@example.com'
+  - icon: email-svgrepo-com
+    url: 'mailto:trevor@trevorwong.com'
     label: E-mail Me
-  - icon: brands/x
-    url: https://twitter.com/GetResearchDev
+  #- icon: brands/x
+  #  url: https://twitter.com/GetResearchDev
   - icon: brands/github
-    url: https://github.com/gcushen
+    url: https://github.com/twong-sea
+    label: Github
   - icon: brands/linkedin
-    url: https://www.linkedin.com/
-  - icon: brands/instagram
-    url: https://www.instagram.com/
+    url: https://www.linkedin.com/in/trevor-wong-sea/
+    label: LinkedIn
+  #- icon: brands/instagram
+  #  url: https://www.instagram.com/
 
 education:
   - area: PhD Artificial Intelligence
