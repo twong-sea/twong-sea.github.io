@@ -42,7 +42,7 @@ sections:
     content:
       title: Projects
       username: admin
-  - block: adwards
+  - block: awards
     content:
       title: Volunteering
       username: admin
