@@ -16,12 +16,13 @@ sections:
       username: admin
       # Show a call-to-action button under your biography? (optional)
       button:
-        text: Download Résumé
-        url: uploads/resume.pdf
+        text: Download Resume
+        url: uploads/trevor_wong_resume.pdf
     design:
       banner:
         # Upload your cover image to the `assets/media/` folder and reference it here
-        filename: kalen-emsley-Bkci_8qcdvQ-unsplash.jpg
+        #filename: kalen-emsley-Bkci_8qcdvQ-unsplash.jpg
+        filename: weebly_header_obama_map.png
       biography:
         # Customize the style of your biography text
         style: 'text-align: justify; font-size: 0.8em;'
@@ -30,19 +31,23 @@ sections:
       username: admin
     design:
       # Hugo date format
-      date_format: 'January 2006'
+      date_format: '2006 January'
       # Education or Experience section first?
       is_education_first: false
   - block: skills
     content:
       title: Skills & Hobbies
       username: admin
-  - block: awards
+  - block: adwards
     content:
-      title: Awards
+      title: Projects
       username: admin
-  - block: languages
+  - block: adwards
     content:
-      title: Languages
+      title: Volunteering
       username: admin
+  #- block: languages
+   # content:
+    #  title: Languages
+    #  username: admin
 ---

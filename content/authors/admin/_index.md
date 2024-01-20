@@ -17,7 +17,7 @@ status:
 superuser: true
 
 # Role/position/tagline
-role: Director of Cloud Infrastructure
+role: Data & Analytics Professional
 
 # Organizations/Affiliations to display in Biography blox
 organizations:
@@ -102,42 +102,53 @@ work:
 skills:
   - name: Technical Skills
     items:
-      - name: Python
-        description: ''
-        percent: 80
-        icon: code-bracket
-      - name: Data Science
-        description: ''
-        percent: 100
-        icon: chart-bar
       - name: SQL
-        description: ''
-        percent: 40
+        description: 'PostgreSQL, Vertica, Presto, Spark'
+        percent: 100
         icon: circle-stack
-  - name: Hobbies
+      - name: Spatial Analysis
+        description: 'PostGIS, ArcGIS, QGIS'
+        percent: 100
+        #icon: chart-bar
+        icon: analysis-svgrepo-com
+      - name: Business Intelligence
+        description: 'Tableau, Looker, Google Data Studio, Power BI'
+        percent: 100
+        icon: business-information-reporting-svgrepo-com
+        #icon: code-bracket
+      - name: Retail Analytics
+        description: 'Discounting, Marketing Measurement, Customer Segmentation, Site Selection'
+        percent: 80
+        icon: business-information-reporting-svgrepo-com
+        #icon: code-bracket        
+  - name: Soft Skills
     color: '#eeac02'
     color_border: '#f0bf23'
     items:
-      - name: Hiking
-        description: ''
+      - name: Training
+        description: 'SQL, QGIS, Excel'
+        percent: 80
+        #icon: person-simple-walk
+        icon: training-class-svgrepo-com
+      - name: Project Management
+        description: 'Jira, Asana, Confluence'
         percent: 60
-        icon: person-simple-walk
-      - name: Cats
-        description: ''
-        percent: 100
-        icon: cat
-      - name: Photography
+        #icon: cat
+        icon: jira-svgrepo-com
+      - name: Presentations
         description: ''
         percent: 80
-        icon: camera
+        #icon: camera
+        inon: presentation-6-svgrepo-com
 
-languages:
-  - name: English
-    percent: 100
-  - name: Chinese
-    percent: 75
-  - name: Portuguese
-    percent: 25
+#these are represented by 
+#languages:
+#  - name: English
+#    percent: 100
+#  - name: Chinese
+#    percent: 75
+#  - name: Portuguese
+#    percent: 25
 
 # Awards.
 #   Add/remove as many awards below as you like.
@@ -171,4 +182,5 @@ awards:
       Object-oriented programming (OOP) lets you specify relationships between functions and the objects that they can act on, helping you manage complexity in your code. This is an intermediate level course, providing an introduction to OOP, using the S3 and R6 systems. S3 is a great day-to-day R programming tool that simplifies some of the functions that you write. R6 is especially useful for industry-specific analyses, working with web APIs, and building GUIs.
 ---
 
-I am currently Director of Cloud Infrastructure at GenCoin where I am leading teams on edge computing, deep sea data center architecture, and hivemind optimization.
+I am an experienced Analyst
+I love spatial analysis, data visualization, and ramen.
