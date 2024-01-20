@@ -1,4 +1,8 @@
+<<<<<<< HEAD
 name: Deploy website to GitHub Pages
+=======
+name: Deploy website to GitHub Pages from template
+>>>>>>> origin/master
 
 env:
   WC_HUGO_VERSION: '0.119.0'
