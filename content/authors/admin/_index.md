@@ -27,7 +27,7 @@ organizations:
 # Social network links
 # Need to use another icon? Simply download the SVG icon to your `assets/media/icons/` folder.
 profiles:
-  - icon: email-svgrepo-com
+  - icon: email-svgrepo-com.svg
     url: 'mailto:trevor@trevorwong.com'
     label: E-mail Me
   #- icon: brands/x
@@ -42,37 +42,28 @@ profiles:
   #  url: https://www.instagram.com/
 
 education:
-  - area: PhD Artificial Intelligence
-    institution: Stanford University
-    date_start: 2016-01-01
-    date_end: 2020-12-31
+  - area: Certificate in Geographic Information Systems (GIS)
+    institution: University of Washington
+    date_start: 2010
+    date_end: 2011
     summary: |
-      Thesis on _Why LLMs are awesome_. Supervised by [Prof Joe Smith](https://example.com). Presented papers at 5 IEEE conferences with the contributions being published in 2 Springer journals.
-    button:
-      text: 'Read Thesis'
-      url: 'https://example.com'
-  - area: MEng Artificial Intelligence
-    institution: Massachusetts Institute of Technology
-    date_start: 2016-01-01
-    date_end: 2020-12-31
-    summary: |
-      GPA: 3.8/4.0
+      Professional and Continuing Education program teaching GIS skills using ArcGIS.  Course content covered site selection, IDW/Spline/Krieg interpretation methods, and cartography.  Won 2nd place in the Richard ‘Dick’ Thomas Student Presentation Competition at the 2011 Washington GIS Conference with a presentation on modeling forestry land sale prices.
+# maybe use this for Projects
+#    button:
+#      text: 'Read Thesis'
+#      url: 'https://example.com'
+  - area: Bachelor of Arts - Political Science, Minor in Chemistry
+    institution: University of Washington
+    date_start: 2003
+    date_end: 2008
+    #summary: |
+#      GPA: 3.8/4.0
+#
+#      Courses included:
+#      - lorem ipsum dolor sit amet, consectetur adipiscing elit
+#      - lorem ipsum dolor sit amet, consectetur adipiscing elit
+#      - lorem ipsum dolor sit amet, consectetur adipiscing elit
 
-      Courses included:
-      - lorem ipsum dolor sit amet, consectetur adipiscing elit
-      - lorem ipsum dolor sit amet, consectetur adipiscing elit
-      - lorem ipsum dolor sit amet, consectetur adipiscing elit
-  - area: BSc Artificial Intelligence
-    institution: Massachusetts Institute of Technology
-    date_start: 2016-01-01
-    date_end: 2020-12-31
-    summary: |
-      GPA: 3.4/4.0
-      
-      Courses included:
-      - lorem ipsum dolor sit amet, consectetur adipiscing elit
-      - lorem ipsum dolor sit amet, consectetur adipiscing elit
-      - lorem ipsum dolor sit amet, consectetur adipiscing elit
 work:
   - position: Director of Cloud Infrastructure
     company_name: GenCoin
@@ -105,21 +96,21 @@ skills:
       - name: SQL
         description: 'PostgreSQL, Vertica, Presto, Spark'
         percent: 100
-        icon: circle-stack
+        icon: circle-stack.svg
       - name: Spatial Analysis
         description: 'PostGIS, ArcGIS, QGIS'
         percent: 100
         #icon: chart-bar
-        icon: analysis-svgrepo-com
+        icon: analysis-svgrepo-com.svg
       - name: Business Intelligence
         description: 'Tableau, Looker, Google Data Studio, Power BI'
         percent: 100
-        icon: business-information-reporting-svgrepo-com
+        icon: business-information-reporting-svgrepo-com.svg
         #icon: code-bracket
       - name: Retail Analytics
         description: 'Discounting, Marketing Measurement, Customer Segmentation, Site Selection'
         percent: 80
-        icon: business-information-reporting-svgrepo-com
+        icon: business-information-reporting-svgrepo-com.svg
         #icon: code-bracket        
   - name: Soft Skills
     color: '#eeac02'
@@ -129,17 +120,17 @@ skills:
         description: 'SQL, QGIS, Excel'
         percent: 80
         #icon: person-simple-walk
-        icon: training-class-svgrepo-com
-      - name: Project Management
-        description: 'Jira, Asana, Confluence'
-        percent: 60
-        #icon: cat
-        icon: jira-svgrepo-com
+        icon: training-class-svgrepo-com.svg
       - name: Presentations
         description: ''
         percent: 80
         #icon: camera
-        inon: presentation-6-svgrepo-com
+        inon: presentation-6-svgrepo-com.svg
+      - name: Project Management
+        description: 'Jira, Asana, Confluence'
+        percent: 60
+        #icon: cat
+        icon: jira-svgrepo-com.svg
 
 #these are represented by 
 #languages:
