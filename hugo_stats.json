@@ -1,11 +1,13 @@
 {
   "htmlElements": {
     "tags": [
+      "?xml",
       "a",
       "article",
       "body",
       "button",
       "circle",
+      "defs",
       "div",
       "footer",
       "g",
@@ -15,6 +17,7 @@
       "head",
       "html",
       "i",
+      "image",
       "img",
       "li",
       "line",
@@ -23,8 +26,10 @@
       "ol",
       "p",
       "path",
+      "rect",
       "script",
       "section",
+      "sodipodi:namedview",
       "span",
       "style",
       "svg",
@@ -36,6 +41,7 @@
       "-mt-[105px]",
       "-start-3",
       "[&:not(dark)]:hidden",
+      "a",
       "absolute",
       "avatar",
       "avatar-emoji",
@@ -166,6 +172,7 @@
       "skills-wrapper",
       "sm:h-64",
       "sm:px-0",
+      "st0",
       "text-2xl",
       "text-3xl",
       "text-base",
@@ -192,14 +199,19 @@
       "z-10"
     ],
     "ids": [
+      "_x32_",
+      "defs1",
+      "g1",
       "moon",
+      "namedview1",
       "page-bg",
       "profile",
       "section-awards",
       "section-biography",
       "section-experience",
       "section-skills",
-      "sun"
+      "sun",
+      "svg1"
     ]
   }
 }

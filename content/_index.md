@@ -36,16 +36,16 @@ sections:
       is_education_first: false
   - block: skills
     content:
-      title: Key Skills
+      title: 'Key Skills'
       username: admin
   - block: awards
     content:
-      title: Projects
+      title: 'Projects & Volunteering'
       username: admin
-  - block: awards
-    content:
-      title: Volunteering
-      username: admin
+#  - block: accomplishments
+#    content:
+#      title: Volunteering
+#      username: admin
   #- block: languages
    # content:
     #  title: Languages
