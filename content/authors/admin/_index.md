@@ -10,8 +10,8 @@ first_name: Trevor
 last_name: Wong
 
 # Status emoji
-status:
-  icon: 🍜
+#status:
+#  icon: 🍜
 
 # Is this the primary user of the site?
 superuser: true
@@ -20,9 +20,9 @@ superuser: true
 role: Data & Analytics Professional
 
 # Organizations/Affiliations to display in Biography blox
-organizations:
-  - name: GenCoin
-    url: https://www.example.com/
+#organizations:
+  #- name: GenCoin
+  #  url: https://www.example.com/
 
 # Social network links
 # Need to use another icon? Simply download the SVG icon to your `assets/media/icons/` folder.
@@ -68,29 +68,53 @@ education:
 #      - lorem ipsum dolor sit amet, consectetur adipiscing elit
 
 work:
-  - position: Director of Cloud Infrastructure
-    company_name: GenCoin
-    company_url: ''
-    company_logo: ''
-    date_start: 2021-01-01
+  - position: Senior Analytics Consultant
+    company_name: Amperity
+    company_url: 'https://www.amperity.com'
+    company_logo: 'amperity_favicon_inkscape'
+    date_start: 2022-05-01
     date_end: ''
     summary: |2-
-      Responsibilities include:
-      - lorem ipsum dolor sit amet, consectetur adipiscing elit
-      - lorem ipsum dolor sit amet, consectetur adipiscing elit
-      - lorem ipsum dolor sit amet, consectetur adipiscing elit
-  - position: Backend Software Engineer
-    company_name: X
+      - Served eight client companies in retail, travel, and transportation industries ranging from $10 million to $10 billion in revenue
+      - Produced and presented email campaign reporting to demonstrate effectiveness of multi-flight campaigns
+      - Used Regex parsing on 32,000 unformatted data fields to analyze customer spending and lead-to-sale timing
+      - Developed method for appending demographic information to 135 million limited PII records
+      - Created statistical model assigning gender probabilities from 157 nationalities and ethnic groups to limited PII customer records, improving prediction rates by 25% over existing model
+      - Drove adoption of in-platform client-accessible reporting
+  - position: Project Manager, Campaigns & Ripple
+    company_name: BlueLabs
     company_url: ''
     company_logo: ''
-    date_start: 2016-01-01
-    date_end: 2020-12-31
+    date_start: 2020-03-01
+    date_end: 2022-04-30
     summary: |
-      Responsibilities include:
-      - Migrated infrastructure to a new data center
-      - lorem ipsum dolor sit amet, consectetur adipiscing elit
-      - lorem ipsum dolor sit amet, consectetur adipiscing elit
-
+      - Analyzed demographic data, historic election results, and past violations of voting rights to geographically target areas in need of Voter Protection support during the 2020 election
+      - Validated person-level religiosity models and generated insights and use- cases for client
+      - Created analysis and reports of client-facing influencers database to demonstrate value to customers and reference for relationship expansion
+      - Produced network graph expansions using Python and Gremlin Querying Language
+      - Generated and delivered survey samples from occupation and donation data
+  - position: Tools Support Engineer
+    company_name: Catalist
+    company_url: ''
+    company_logo: ''
+    date_start: 2017-11-01
+    date_end: 2020-02-20
+    summary: |
+      - Transitioned user creation workflow to incorporate third party SSO vendor
+      - Created Tableau reporting of user behavior for product optimization
+      - Designed user permissioning structures for next generation identity resolution platform
+  - position: Battleground States Analytics Lead / GIS Administrator
+    company_name: Hillary for America
+    company_url: ''
+    company_logo: ''
+    date_start: 2016-06-01
+    date_end: 2016-11-20
+    summary: |
+      - Led Strategic planning and goals creation for national field program with over 2,600 organizers and 1.8 million volunteers
+      - Deployed PostgreSQL/PostGIS geodatabase and other GIS tools to 70 state analytics staff
+      - Developed geographic reporting
+      - Established metrics, analytics frameworks, and data reporting tools to assess voter contact performance in Ohio, Pennsylvania, and Virginia
+      - Optimized Iowa early vote locations using spatial analysis to maximize turnout    
 # Skills
 # Add your own SVG icons to `assets/media/icons/`
 skills:
@@ -98,7 +122,7 @@ skills:
   - name:
     items:
       - name: SQL
-        description: 'PostgreSQL, Vertica, Presto, Spark'
+        description: 'PostgreSQL, Vertica, Redshift, Presto, Spark'
         percent: 100
         icon: hero/circle-stack
       - name: Spatial Analysis
@@ -176,9 +200,8 @@ awards: #actually projects
     awarder: Recount 2020
     icon: vote_icon
     summary: |
-      Recount 2020 was a project to provide data and analytics support to legal efforts around the 2020 election. 
-      I led Recount 2020's data operations for Arizona. Duties included projecting likelihood of a recount, preparing for ballot curing, and creating data pipelines of election result data.
-      
+      Recount 2020 was a project to provide data and analytics support to legal efforts around the 2020 election. I led Recount 2020's data operations for Arizona. Duties included projecting likelihood of a recount, preparing for ballot curing, and creating data pipelines of election result data.
+
   - title: Chefs for the Polls - Site Selection
     url: https://wck.org/news/chefsforthepolls
     date: '2020-10-01'
@@ -216,5 +239,5 @@ awards: #actually projects
 
 ---
 
-I am an experienced Analyst
-I love spatial analysis, data visualization, and ramen.
+Seasoned Data Analyst with 12 years of expertise in various SQL dialects and spatial analysis. Proficient in BI Tools such as Tableau, Looker Studio, and Power BI. Known for discovering actionable insights and delivering compelling presentations to stakeholders. Conducted training sessions on GIS and other data-related skills.
+Loves spatial analysis, data visualization, and ramen.

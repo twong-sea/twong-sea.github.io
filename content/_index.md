@@ -22,10 +22,16 @@ sections:
       banner:
         # Upload your cover image to the `assets/media/` folder and reference it here
         #filename: kalen-emsley-Bkci_8qcdvQ-unsplash.jpg
-        filename: weebly_header_obama_map.png
+        #filename: weebly_header_obama_map.png
+        #filename: il_fullxfull.230661123.jpg
+        filename: kerry-park-new-feat.jpg
       biography:
         # Customize the style of your biography text
         style: 'text-align: justify; font-size: 0.8em;'
+  - block: skills
+    content:
+      title: 'Key Skills'
+      username: admin
   - block: experience
     content:
       username: admin
@@ -34,10 +40,6 @@ sections:
       date_format: '2006 January'
       # Education or Experience section first?
       is_education_first: false
-  - block: skills
-    content:
-      title: 'Key Skills'
-      username: admin
   - block: awards
     content:
       title: 'Projects & Volunteering'
