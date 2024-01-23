@@ -239,5 +239,5 @@ awards: #actually projects
 
 ---
 
-Seasoned Data Analyst with 12 years of expertise in various SQL dialects and spatial analysis. Proficient in BI Tools such as Tableau, Looker Studio, and Power BI. Known for discovering actionable insights and delivering compelling presentations to stakeholders. Conducted training sessions on GIS and other data-related skills.
+Seasoned Data Analyst with 12 years of expertise in various SQL dialects and spatial analysis. Proficient in BI Tools such as Tableau, Looker Studio, and Power BI. Known for discovering actionable insights and delivering compelling presentations to stakeholders. Conducts training sessions on GIS and other data-related skills.
 Loves spatial analysis, data visualization, and ramen.
