@@ -73,7 +73,7 @@ work:
     company_url: 'https://www.amperity.com'
     company_logo: 'amperity_favicon_inkscape'
     date_start: 2022-05-01
-    date_end: ''
+    date_end: 2024-01-31
     summary: |2-
       - Served eight client companies in retail, travel, and transportation industries ranging from $10 million to $10 billion in revenue
       - Produced and presented email campaign reporting to demonstrate effectiveness of multi-flight campaigns
